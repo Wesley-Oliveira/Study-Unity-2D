@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: 7f58d05bf16867e4280d527e91757867
+timeCreated: 1468335861
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fantasma_0
+    21300002: fantasma_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fantasma_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 134
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 64}
+        - {x: -33, y: 63}
+        - {x: -67, y: 40}
+        - {x: -67, y: -64}
+        - {x: 37, y: -64}
+        - {x: 67, y: -52}
+        - {x: 67, y: 35}
+        - {x: 45, y: 64}
+    - name: fantasma_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 64}
+        - {x: -55, y: 51}
+        - {x: -64, y: -10}
+        - {x: -64, y: -64}
+        - {x: 51, y: -64}
+        - {x: 64, y: -44}
+        - {x: 64, y: 50}
+        - {x: 48, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
